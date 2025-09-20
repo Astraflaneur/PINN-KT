@@ -6,13 +6,13 @@ PINN-KT is a research repository focused on the intersection of classical numeri
 This approach, called FV-PINNs, integrates the physics of the underlying numerical method (e.g., flux gradients, RK time integration) directly into the training process, providing a robust framework for data-driven and physics-constrained modeling.
 
 
-<img src=./figures/Sod.gif width="350" height="350"/><img src=./Figures/L_u_PINNs_2033.png width="400" height="350"/>
+<img src=./figures/Sod.gif width="350" height="350"/><img src=./figures/L_u_PINNs_2033.png width="400" height="350"/>
                              
 *Left: W-PINNs-DE solution(red squares) compared to exact solution (black line) of the Sod Shock-Tube Problem*
 
 *Right: W-PINNs solution of deformation in x direction on Domain II*
 
-<img src=./figures/BLP-OF.gif width="350" height="350"/><img src=./Figures/Buckley-Leverett-Problem-full.png width="400" height="350"/>
+<img src=./figures/BLP-OF.gif width="350" height="350"/><img src=./figures/Buckley-Leverett-Problem-full.png width="400" height="350"/>
                              
 *Left: W-PINNs-DE solution (red squares) compared to exact solution (black line) of the Buckley-Leverett Problem*
 
