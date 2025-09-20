@@ -1,0 +1,9 @@
+./presentation_material
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.lof
+*.lot
+*.fls       
